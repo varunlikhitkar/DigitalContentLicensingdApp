@@ -1,4 +1,5 @@
 ##### Deployed smartcontract address: CBEU4SXOLV4HA5GZOXDTN3JNGCZ3P5BTNJGOZT3GDT44JK4ZZ3THPRPA
+<img width="1428" alt="image" src="https://github.com/user-attachments/assets/2fb59756-8e83-4b5e-bfaa-e6df273fb8a2">
 
 # Digital Content Licensing dApp
 
